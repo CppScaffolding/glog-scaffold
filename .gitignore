@@ -1,0 +1,4 @@
+## .gitignore file for glog-scaffold
+
+## ignore folder fetched through gclient
+glog
